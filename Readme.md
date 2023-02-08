@@ -1,7 +1,6 @@
 <h1 align="center"> Animated Login Form </h1>
 
-<img src="./documentos/Animated Login Form/Capa.png" alt="Capa do projeto.">
-
+<img src="./assets/Capa.png" alt="capa">
 <p align="center">
 Página formulario de Login animado!
 </p>
