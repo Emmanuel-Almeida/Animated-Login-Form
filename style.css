@@ -9,6 +9,7 @@ body {
     height: 100vh;
     overflow: hidden;
     font-family: 'Open Sans', sans-serif;
+
 }
 
 /*Centralizando a div container*/
@@ -146,4 +147,7 @@ input[type="submit"]:hover {
     .container {
         min-width: 178px;
 }
+    body {
+        -webkit-overflow-scrolling: touch;
+    }
 }
