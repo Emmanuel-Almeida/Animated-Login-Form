@@ -8,6 +8,7 @@ body {
     background-position:top;
     height: 100vh;
     overflow: hidden;
+    -webkit-overflow-scrolling: touch;
     font-family: 'Open Sans', sans-serif;
 
 }
@@ -147,7 +148,4 @@ input[type="submit"]:hover {
     .container {
         min-width: 178px;
 }
-    body {
-        -webkit-overflow-scrolling: touch;
-    }
 }
