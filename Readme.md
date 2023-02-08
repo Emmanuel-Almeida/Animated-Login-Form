@@ -27,5 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Este projeto foi criado com intenção de praticar as tecnologias HTML e CSS, onde pude explorar efeitos animados de uma maneira minimalista. Apesar de ser um formulário basico, foi interessante treinar posicionamento e estilização dos componentes!
 
 Link do deploy:
+https://animated-login-form-iota.vercel.app/
 
 ---
